@@ -1,0 +1,12 @@
+/* Centralizando textos */
+.centralizado{
+    text-align: center;
+}
+
+.size-img{
+    width: 25%;
+}
+
+.bg{
+    background-color: #3498db;
+}
